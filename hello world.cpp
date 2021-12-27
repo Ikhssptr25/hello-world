@@ -2,7 +2,7 @@
 using namespace std;
 
 int main (){
-    cout<<"hello World"<<endl;
+    cout<<"hello world"<<endl;
     /*nama saya ikhsan saputra
     npm 2117051037*/
     //ikhsan ganteng banget;
